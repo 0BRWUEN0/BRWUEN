@@ -2,8 +2,8 @@
 ## BRWUEN
 
 كود التنصيب السورس ⬇️⬇️⬇️
-- git clone https://github.com/0BRWUEN0/BRWUEN.git
-- cd BRWUEN
+-😀 git clone https://github.com/0BRWUEN0/BRWUEN.git
+😀- cd BRWUEN
 - sh install
 - ./launch.sh
 ---------------------------------------
