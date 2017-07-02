@@ -1,18 +1,13 @@
 --------------------------------------
 ## BRWUEN
 
-- git clone 
-- cd mafia_cli
+- git clone https://github.com/0BRWUEN0/BRWUEN.git
+- cd BRWUEN
 - sh install
-- #edit config.lua, line [28 , 33]
 - ./launch.sh
-- number
-- code
-- ctrl + c
-- screen ./launch.sh
 ---------------------------------------
 ---------------------------------------
-## Error run bot
+## Error run bot من تسوي رن تطلع عدك مشكله اكتب كودات بسره وينحل رن
 - cd mafia_cli
 - killall -9 bash
 - screen ./launch.sh
@@ -44,4 +39,4 @@
 
 --------------------------------------
 
-## [@mafia_cli](https://telegram.me/mafia_cli)
+## [@vip_api](https://telegram.me/vip_api)
