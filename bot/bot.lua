@@ -544,5 +544,6 @@ now = os.time()
 math.randomseed(now)
 started = false
 
---@mafia_cli
---https://github.com/mafia-007
+--  تم تطوير وتعريب بواسطه بروين
+-- مطور سورس @BRWUEN
+-- قناه سورس @vip_
