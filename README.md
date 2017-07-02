@@ -1,7 +1,7 @@
 --------------------------------------
-## mafia_bot
+## BRWUEN
 
-- git clone https://github.com/mafia-007/mafia_cli
+- git clone 
 - cd mafia_cli
 - sh install
 - #edit config.lua, line [28 , 33]
