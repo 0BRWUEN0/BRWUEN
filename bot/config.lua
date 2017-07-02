@@ -1,41 +1,40 @@
 do local _ = {
   enabled_plugins = {
     "addrem",
-    "bc",
     "supergroup",
     "msg_checks",
     "pin",
     "owner",
     "online",
-    "plugins",
     "admin",
     "id",
     "del",
     "clean",
     "expiretime",
-    "filter",
+    "help",
     "setlink",
     "setrules",
-    "me",
-    "like",
     "rmsg_all",  
-    "leave"  
+    "leave",
+    "bc",
   },
   group  = {
     data = "bot/group.json"
   },
   sudo_users = {
-    202020202, --sudo ایدی شما
+    310233496, --هنا ايدي المطور
     0,
     0
   },
 robot = {
-    010101010,--bot ایدی ربات
+    010101010, --هنا ايدي البوت  
     0
   }
 }
 return _
 end
 
---@mafia_cli
---https://github.com/mafia-007
+--  تم تطوير وتعريب بواسطه بروين
+-- مطور سورس @BRWUEN
+-- قناه سورس @vip_api
+
