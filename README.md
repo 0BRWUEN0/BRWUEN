@@ -1,5 +1,5 @@
 --------------------------------------
-#[🔥TEAM-BRWUEN-BOT🔥](telegram.me/vip_api)
+#[🔥TEAM-BRWUEN-BOT🔥](https://telegram.me/vip_api)
 
 🔥TEAM-BRWUEN-BOT🔥|🔥TEAM-BRWUEN-BOT🔥
 
